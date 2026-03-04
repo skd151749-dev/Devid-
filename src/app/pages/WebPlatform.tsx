@@ -1,8 +1,8 @@
 import { motion } from 'motion/react';
 import { ExternalLink } from 'lucide-react';
 import { ImageWithFallback } from '../components/figma/ImageWithFallback';
-import literacyThumbnail from 'figma:asset/5ba9f7189fafa063c5e2934cec125ee704c6bef1.png';
-import fackmarkThumbnail from 'figma:asset/14fe8684fbcc8c5a5b7e6ea153ada8e06f424b1b.png';
+import literacyThumbnail from '../../assets/5ba9f7189fafa063c5e2934cec125ee704c6bef1.png';
+import fackmarkThumbnail from '../../assets/14fe8684fbcc8c5a5b7e6ea153ada8e06f424b1b.png';
 
 export function WebPlatform() {
   const platforms = [

@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { Mail, MapPin, Phone } from 'lucide-react';
-import profileImage from 'figma:asset/52b9d962121e7a5f6002097b4858144637db77df.png';
+import profileImage from '../../assets/52b9d962121e7a5f6002097b4858144637db77df.png';
 
 export function Contact() {
   const contactInfo = [
